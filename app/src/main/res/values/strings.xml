@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Payment vochers</string>
+    <string name="action_search">Enter Vocher Number</string>
+</resources>
